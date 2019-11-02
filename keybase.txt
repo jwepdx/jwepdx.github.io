@@ -1,0 +1,58 @@
+jwepdx
+Jacob Evans
+==================================================================
+https://keybase.io/jwepdx
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jacobwevans.me
+  * I am jwepdx (https://keybase.io/jwepdx) on keybase.
+  * I have a public key ASCq0sc_acuF60leIOMY0HV_3MZh5dJ2mJQ2e-upD8HaRwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120aad2c73f69cb85eb495e20e318d0757fdcc661e5d2769894367beba90fc1da470a",
+      "host": "keybase.io",
+      "kid": "0120aad2c73f69cb85eb495e20e318d0757fdcc661e5d2769894367beba90fc1da470a",
+      "uid": "c26e72ec864149f899c357d372c95f19",
+      "username": "jwepdx"
+    },
+    "merkle_root": {
+      "ctime": 1572737727,
+      "hash": "eb2f71767ae8f975794ea8f010077342155e56fb892d2960ddf4b02452c769c102f7e80505add54a09b82ea7d33509d10f9df1c82497672a58c406348365b8ba",
+      "hash_meta": "81ee697ba5e3c1037891066dbbcfc5b9e6caecc838484d5b4c72bae9149bdec5",
+      "seqno": 8642633
+    },
+    "service": {
+      "entropy": "n6tc58B6RRNHohr9YFLS5TDs",
+      "hostname": "jacobwevans.me",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.7.2"
+  },
+  "ctime": 1572737734,
+  "expire_in": 504576000,
+  "prev": "bee98fcc5835cfeb5d6adb86bb46b79af7577ee8bfa6eb090aca7a5bcf2f1e7f",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqtLHP2nLhetJXiDjGNB1f9zGYeXSdpiUNnvrqQ/B2kcKp3BheWxvYWTESpcCE8QgvumPzFg1z+tdatuGu0a3mvdXfui/pusJCsp6W88vHn/EICzKGzqtHQwumCFDMbpV5V6SKx9NFsUXmjxXAzrFo3cCAgHCo3NpZ8RAIE3fgKPp25A0d4Zg3BCGYTmv+DVniwG26HBowrv47VHii/9QmH9Ikg3QQWwGnH/xr9JVddByi84s9zbF50anA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKU3r47qSilg9tYXq4xZ2/N/a5mF4NnNvNkoVITQMzgeo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jwepdx
+
+==================================================================
