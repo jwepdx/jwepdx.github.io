@@ -1,5 +1,3 @@
-jwepdx
-Jacob Evans
 ==================================================================
 https://keybase.io/jwepdx
 --------------------------------------------------------------------
@@ -22,13 +20,13 @@ To do so, I am signing this object:
       "username": "jwepdx"
     },
     "merkle_root": {
-      "ctime": 1572737727,
-      "hash": "eb2f71767ae8f975794ea8f010077342155e56fb892d2960ddf4b02452c769c102f7e80505add54a09b82ea7d33509d10f9df1c82497672a58c406348365b8ba",
-      "hash_meta": "81ee697ba5e3c1037891066dbbcfc5b9e6caecc838484d5b4c72bae9149bdec5",
-      "seqno": 8642633
+      "ctime": 1572738572,
+      "hash": "cdaa68ea30230f44608e69f69d5a4727a9a019af9b80d37b74c54fd6a003eca0bcbb600adc22028f6062a983452e3af80d46003bdc3d5c796333d7f83099d356",
+      "hash_meta": "ea3bf66757797d9a946d92c33e36312f1b6cfa8b2268b27c372b2068e6f5ffb1",
+      "seqno": 8643000
     },
     "service": {
-      "entropy": "n6tc58B6RRNHohr9YFLS5TDs",
+      "entropy": "/CKjJjMO6jtlhiEevh12/+Co",
       "hostname": "jacobwevans.me",
       "protocol": "http:"
     },
@@ -39,16 +37,16 @@ To do so, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.7.2"
   },
-  "ctime": 1572737734,
+  "ctime": 1572738590,
   "expire_in": 504576000,
-  "prev": "bee98fcc5835cfeb5d6adb86bb46b79af7577ee8bfa6eb090aca7a5bcf2f1e7f",
-  "seqno": 19,
+  "prev": "196fd7d9d8acfa23d017e827778dbd74569aa70d80f9bfeb0f0d43201c27ea0d",
+  "seqno": 21,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqtLHP2nLhetJXiDjGNB1f9zGYeXSdpiUNnvrqQ/B2kcKp3BheWxvYWTESpcCE8QgvumPzFg1z+tdatuGu0a3mvdXfui/pusJCsp6W88vHn/EICzKGzqtHQwumCFDMbpV5V6SKx9NFsUXmjxXAzrFo3cCAgHCo3NpZ8RAIE3fgKPp25A0d4Zg3BCGYTmv+DVniwG26HBowrv47VHii/9QmH9Ikg3QQWwGnH/xr9JVddByi84s9zbF50anA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIKU3r47qSilg9tYXq4xZ2/N/a5mF4NnNvNkoVITQMzgeo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqtLHP2nLhetJXiDjGNB1f9zGYeXSdpiUNnvrqQ/B2kcKp3BheWxvYWTESpcCFcQgGW/X2dis+iPQF+gnd429dFaapw2A+b/rDw1DIBwn6g3EIDRTk9tFZ84d8wuOW83iYmmXGOOmUtpuaB/owzMySVUfAgHCo3NpZ8RAgvniSYcO7lFxYN+7P+YGc7yHfp3I/08nI5/1+MR2IpgSDcg33Yc/5QqrBLLn/Tcl/oJ9tReFiOKbEFoVBHn/AqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIO097QjXuW98jFSmpsDZe1+Wz77HxNmB+CnUC1ZUud8Go3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
